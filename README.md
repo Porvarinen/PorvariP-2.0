@@ -9,7 +9,7 @@ step 2. move Stream and _resource to this main folder
 -----------------------------------------------------
 step 3. delete unwated folders and you should have only 1 file path
 ---------------------------------------------------------------------
-step 4. just drop the PorvariP2.0 in your server resources and it to your server.cfg and add line: start PorvariP2.0
+step 4. just drop the PorvariP2.0 in your server resources and it to your server.cfg by adding line: start PorvariP2.0
 -------------------------------------------------------------------------------------------------------------------------
 enjoy!
 ------
