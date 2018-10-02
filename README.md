@@ -13,7 +13,7 @@ step 4. just drop the PorvariP2.0 in your server resources and and it to your se
 -------------------------------------------------------------------------------------------------------------------------
 enjoy!
 ------
-(XML is included but read Lisences!)
+(XML is included but read Licenses!)
 ------------------------------------
 remember that this can lower your severs FPS if you have already lots of plugins 
 --------------------------------------------------------------------------------
