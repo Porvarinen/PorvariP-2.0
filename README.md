@@ -1,5 +1,5 @@
 # PorvariP-2.0
-this is my updated version of Porvari Paradice and this has all object fixed (There is 3 versions of my map so you can chose)
+this is my updated version of Porvari Paradice and this has all objects fixed (There is 3 versions of my map so you can chose)
 -----------------------------------------------------------------------------------------------------------------------------
 Install: 
 ---------
